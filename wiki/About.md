@@ -1,4 +1,17 @@
 About NIOS & us
+export default {
+  themeConfig: {
+    lastUpdated: {
+      text: 'Updated at',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium'
+      }
+    }
+  }
+}
+
+s
 ---------
 # About NIOS
 
