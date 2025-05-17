@@ -1,4 +1,3 @@
-About NIOS & us
 export default {
   themeConfig: {
     lastUpdated: {
@@ -12,6 +11,8 @@ export default {
 }
 
 s
+
+About NIOS & us
 ---------
 # About NIOS
 
